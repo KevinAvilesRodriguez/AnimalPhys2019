@@ -1,4 +1,4 @@
-Species,Length of longest fluff hair mm,Thickness of the fur layer (mm),Lenght of the guard hair mm
+Species,Length.fluff.hair.mm,Thickness.fur.mm,Lenght.guard.mm
 Bear,19.97,7.6,53.4
 read fox,29.97,6.2,35.73
 gray fox,14.9,2.15,27.4
