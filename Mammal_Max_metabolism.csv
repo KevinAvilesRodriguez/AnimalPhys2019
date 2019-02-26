@@ -1,0 +1,35 @@
+Mammal_Common_Name,Mass_kg,VO2_max_ml_per_min
+Pygmy mouse,0.0072,1.884
+Woodmouse,0.02,5.28
+Deer mouse,0.022,4.928
+Mouse,0.026,3.884
+Chipmunk,0.09,21.485
+Mole rat,0.136,14.58
+Rat,0.278,23.13
+Dwarf mongoose,0.43,54.44
+Guinea pig,0.584,32.59
+Rat kangaroo,1.1,194.7
+Banded mongoose,1.14,130
+Genet cat,1.38,146.6
+Spring hare,3,291.6
+Agouti,3.22,328.4
+Suri,3.3,317.8
+Dik-dik,4.2,228.1
+Fox,4.51,897.5
+Grant's gazelle,10.1,539.3
+Coyote,12.4,2283.3
+Pig,18.5,1731.6
+African sheep,21.8,1013.7
+Goat,24.3,1344.7
+Dog,25.9,3825
+Wolf,27.6,4310
+Pronghorn,28.4,8435
+Lion,30,1800
+Wildebeest,102,4468
+Waterbuck,110,5172
+Calf,141,5161
+Pony,171,15185
+Zebu cattle,193,5660
+Eland,240,8640
+Horse,453,56005
+Steer,475,24225
